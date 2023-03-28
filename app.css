@@ -52,9 +52,9 @@ main {
 }
 
 .product p {
-	font-size: 16px;
+	font-size: 10px;
 	line-height: 1.5;
-	margin: 20px 0;
+	margin: 15px 0;
 }
 
 button {
