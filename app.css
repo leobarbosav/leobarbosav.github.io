@@ -52,9 +52,9 @@ main {
 }
 
 .product p {
-	font-size: 10px;
+	font-size: 15px;
 	line-height: 1.5;
-	margin: 15px 0;
+	margin: 20px 0;
 }
 
 button {
@@ -99,7 +99,7 @@ footer {
   }
   
   .product {
-    width: calc(50% - 20px);
-    margin: 10px;
+    width: calc(50% - 10px);
+    margin: 5px;
   }
 }
